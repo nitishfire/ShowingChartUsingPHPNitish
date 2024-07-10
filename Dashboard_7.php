@@ -31,8 +31,8 @@ sort($uniqueTopics);
 ?>
 
 <div id="mySidenav" class="sidenav">
-    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-    <a href="./Dashboard_1.php">Intensity Over Years [Line Chart]</a>
+<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="./index.php">Intensity Over Years [Line Chart]</a>
   <a href="./Dashboard_2.php">Likelihood Over Years [Line Chart]</a>
   <a href="./Dashboard_3.php">Relevance Over Years [Line Chart]</a>
   <a href="./Dashboard_4.php">Intensity Over Country [Bar Chart]</a>
